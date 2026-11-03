@@ -19,6 +19,10 @@ const vi = {
     heroSub:
       "FormatCh là chuyên gia định dạng ảnh: chuyển sang AVIF hoặc WebP, so sánh định dạng trên chính ảnh của bạn, xử lý hàng loạt cả thư mục và kiểm tra loại tệp thật bằng magic bytes. Mọi thứ chạy cục bộ — nhanh, miễn phí, không cần tài khoản, không tải lên.",
     browseAll: "Xem tất cả công cụ",
+    pinned: "Đã ghim",
+    pin: "Ghim lên đầu",
+    unpin: "Bỏ ghim",
+    popular: "Phổ biến ngay bây giờ",
     categoriesTitle: "Danh mục",
     featuredTitle: "Công cụ phổ biến",
     trustLocal: "Ảnh của bạn ở lại trên thiết bị",
@@ -77,6 +81,8 @@ const vi = {
     howTo: "Cách sử dụng",
     faq: "Câu hỏi thường gặp",
     related: "Công cụ liên quan",
+    nextStep: "Bước tiếp theo",
+    copyLink: "Sao chép liên kết",
     privacyNote:
       "Công cụ này chạy hoàn toàn trong trình duyệt của bạn. Dữ liệu không bao giờ rời khỏi thiết bị — không được tải lên bất kỳ máy chủ nào.",
     inCategory: "Xem thêm trong {category}",

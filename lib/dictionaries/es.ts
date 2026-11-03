@@ -19,6 +19,10 @@ const es: Dictionary = {
     heroSub:
       "FormatCh es el especialista en formatos de imagen: convierte a AVIF o WebP, compara formatos con tu propia imagen, procesa carpetas enteras por lotes e inspecciona el tipo real de cada archivo. Todo en local — rápido, gratis, sin registro, sin subidas.",
     browseAll: "Ver todas las herramientas",
+    pinned: "Fijados",
+    pin: "Fijar arriba",
+    unpin: "Quitar de fijados",
+    popular: "Populares ahora",
     categoriesTitle: "Categorías",
     featuredTitle: "Herramientas populares",
     trustLocal: "Tus imágenes se quedan en tu equipo",
@@ -74,6 +78,8 @@ const es: Dictionary = {
     howTo: "Cómo usarlo",
     faq: "Preguntas frecuentes",
     related: "Herramientas relacionadas",
+    nextStep: "Siguientes pasos",
+    copyLink: "Copiar enlace",
     privacyNote:
       "Esta herramienta funciona por completo en tu navegador. Tus datos nunca salen de tu dispositivo y no se suben a ningún servidor.",
     inCategory: "Más de {category}",

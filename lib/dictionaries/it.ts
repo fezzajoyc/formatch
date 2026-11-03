@@ -19,6 +19,10 @@ const it = {
     heroSub:
       "FormatCh è lo specialista dei formati immagine: conversione in AVIF o WebP, confronto sulla tua immagine, elaborazione in batch di intere cartelle e ispezione del vero tipo di file via magic bytes. Tutto in locale — veloce, gratuito, senza registrazione, senza upload.",
     browseAll: "Sfoglia tutti gli strumenti",
+    pinned: "Fissati",
+    pin: "Fissa in alto",
+    unpin: "Rimuovi dai fissati",
+    popular: "Popolari adesso",
     categoriesTitle: "Categorie",
     featuredTitle: "Strumenti popolari",
     trustLocal: "Le tue immagini restano sul tuo dispositivo",
@@ -77,6 +81,8 @@ const it = {
     howTo: "Come si usa",
     faq: "Domande frequenti",
     related: "Strumenti correlati",
+    nextStep: "Passaggi successivi",
+    copyLink: "Copia link",
     privacyNote:
       "Questo strumento gira interamente nel tuo browser. I tuoi dati non lasciano mai il dispositivo: non vengono caricati su nessun server.",
     inCategory: "Altri in {category}",

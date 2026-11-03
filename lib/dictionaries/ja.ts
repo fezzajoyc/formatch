@@ -19,6 +19,10 @@ const ja: Dictionary = {
     heroSub:
       "FormatCh は画像フォーマットの専門サイト:AVIF/WebP への変換、自分の画像でのフォーマット比較、フォルダ丸ごとの一括変換、マジックナンバーによる形式判定。すべてローカル実行——高速・無料・登録不要・アップロード無し。",
     browseAll: "すべてのツールを見る",
+    pinned: "ピン留め",
+    pin: "トップに固定",
+    unpin: "固定を解除",
+    popular: "人気のツール",
     categoriesTitle: "カテゴリー",
     featuredTitle: "人気のツール",
     trustLocal: "画像は端末から出ません",
@@ -74,6 +78,8 @@ const ja: Dictionary = {
     howTo: "使い方",
     faq: "よくある質問",
     related: "関連ツール",
+    nextStep: "次のステップ",
+    copyLink: "リンクをコピー",
     privacyNote:
       "このツールは完全にブラウザ内で動作します。データは端末から出ず、サーバーへアップロードされることはありません。",
     inCategory: "{category}のその他のツール",

@@ -19,6 +19,10 @@ const en = {
     heroSub:
       "FormatCh is the image-format specialist: convert to AVIF or WebP, compare formats on your own image, batch-convert whole folders and inspect real file types. Everything runs locally — fast, free, no signup, no uploads.",
     browseAll: "Browse all tools",
+    pinned: "Pinned",
+    pin: "Pin to top",
+    unpin: "Remove from pinned",
+    popular: "Popular right now",
     categoriesTitle: "Categories",
     featuredTitle: "Popular tools",
     trustLocal: "Your images stay on your device",
@@ -77,6 +81,8 @@ const en = {
     howTo: "How to use",
     faq: "Frequently asked questions",
     related: "Related tools",
+    nextStep: "Next steps",
+    copyLink: "Copy link",
     privacyNote:
       "This tool runs entirely in your browser. Your data never leaves your device — it is not uploaded to any server.",
     inCategory: "More in {category}",

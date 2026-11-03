@@ -18,6 +18,10 @@ const tr = {
     heroSub:
       "FormatCh görsel formatlarının uzmanıdır: AVIF veya WebP'ye dönüştürme, kendi görselinizle format karşılaştırma, klasörler halinde toplu işleme ve magic bytes ile gerçek dosya türü incelemesi. Tamamen yerel — hızlı, ücretsiz, kayıtsız, yüklemsiz.",
     browseAll: "Tüm araçlara göz at",
+    pinned: "Sabitlenen",
+    pin: "Üste sabitle",
+    unpin: "Sabitlemeyi kaldır",
+    popular: "Şu anda popüler",
     categoriesTitle: "Kategoriler",
     featuredTitle: "Popüler araçlar",
     trustLocal: "Görselleriniz cihazınızda kalır",
@@ -76,6 +80,8 @@ const tr = {
     howTo: "Nasıl kullanılır",
     faq: "Sık sorulan sorular",
     related: "İlgili araçlar",
+    nextStep: "Sonraki adımlar",
+    copyLink: "Bağlantıyı kopyala",
     privacyNote:
       "Bu araç tamamen tarayıcında çalışır. Verilerin asla cihazından çıkmaz — hiçbir sunucuya yüklenmez.",
     inCategory: "{category} kategorisinde daha fazlası",

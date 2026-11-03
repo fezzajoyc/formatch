@@ -19,6 +19,10 @@ const de = {
     heroSub:
       "FormatCh ist der Bildformat-Spezialist: nach AVIF oder WebP konvertieren, Formate am eigenen Bild vergleichen, ganze Ordner im Stapel umwandeln und echte Dateitypen per Magic Bytes erkennen. Alles lokal – schnell, kostenlos, ohne Konto, ohne Uploads.",
     browseAll: "Alle Tools ansehen",
+    pinned: "Angepinnt",
+    pin: "Oben anpinnen",
+    unpin: "Nicht mehr anpinnen",
+    popular: "Gerade beliebt",
     categoriesTitle: "Kategorien",
     featuredTitle: "Beliebte Tools",
     trustLocal: "Ihre Bilder bleiben auf dem Gerät",
@@ -77,6 +81,8 @@ const de = {
     howTo: "So verwenden Sie es",
     faq: "Häufige Fragen",
     related: "Verwandte Tools",
+    nextStep: "Nächste Schritte",
+    copyLink: "Link kopieren",
     privacyNote:
       "Dieses Tool läuft vollständig in Ihrem Browser. Ihre Daten verlassen Ihr Gerät nie — sie werden auf keinen Server hochgeladen.",
     inCategory: "Mehr in {category}",
